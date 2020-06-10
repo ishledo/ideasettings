@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="new.bndigital.co" id="6989c0ff-398b-445b-8956-d992dbc43ea0" port="22" customName="new.bndigital.co" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="OPEN_SSH" host="bndigital.co" id="69347cee-a5fb-4860-86fc-4784a5514ed1" port="22" customName="bndigital.co" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="OPEN_SSH" host="bndigital.co" id="048caa10-66ce-4374-b5a3-92a697a9c50d" port="22" customName="bndigital.co" nameFormat="CUSTOM" username="root" />
+    </configs>
+  </component>
+</application>
