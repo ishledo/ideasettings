@@ -4,7 +4,7 @@
       <sshConfig authType="OPEN_SSH" host="new.bndigital.co" id="4ca1dfd2-a306-4c84-b9c8-39d307bdfa8a" port="22" customName="new.bndigital.co" nameFormat="CUSTOM" username="root" />
       <sshConfig authType="OPEN_SSH" host="bndigital.co" id="fee21b49-4dba-4bff-863a-589b095e6be7" port="22" customName="bndigital.co" nameFormat="CUSTOM" username="root" />
       <sshConfig authType="OPEN_SSH" host="68.183.210.173" id="b1a959c6-0735-4199-92fe-1d660895910a" port="22" customName="bot@bndigital-prod" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="OPEN_SSH" host="bndigital.co" id="3112b390-ef4b-4d0e-8779-668404f92810" port="22" customName="bndigital.co" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="OPEN_SSH" host="bndigital.co" id="43318cb2-9fdf-4e8a-ba03-e1cd20c12505" port="22" customName="bndigital.co" nameFormat="CUSTOM" username="root" />
     </configs>
   </component>
 </application>
