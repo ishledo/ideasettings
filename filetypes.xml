@@ -7,6 +7,7 @@
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
       <mapping pattern="brewfile" type="PLAIN_TEXT" />
       <mapping pattern="init-mongo.js" type="PLAIN_TEXT" />
+      <mapping pattern="_challenge.scss" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="wp-deploy" type="PLAIN_TEXT" />
       <mapping pattern="scene_vacationRequest.js" type="PLAIN_TEXT" />
