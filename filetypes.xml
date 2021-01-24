@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Footer.jsx" type="JSX Harmony" />
       <mapping pattern="engine.js" type="JavaScript" />
