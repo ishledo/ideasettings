@@ -74,6 +74,38 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.boringignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.bzrignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cfignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.chefignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.chm">
           <value>
             <plugin>
@@ -98,6 +130,22 @@
               <option name="myPluginId" value="com.intellij.java" />
               <option name="myPluginName" value="Java" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.composerlog">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.conf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
             </plugin>
           </value>
         </entry>
@@ -137,12 +185,28 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ctp">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.cvp">
           <value>
             <plugin>
               <option name="myPluginId" value="DevKit" />
               <option name="myPluginName" value="Plugin DevKit" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cvsignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -209,6 +273,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.dockerignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.docx">
           <value>
             <plugin>
@@ -233,6 +305,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ebignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -289,6 +369,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.eslintignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.flooignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ft">
           <value>
             <plugin>
@@ -304,6 +400,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.gcloudignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -342,12 +446,28 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.helmignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.hlp">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.hphp">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
             </plugin>
           </value>
         </entry>
@@ -408,9 +528,16 @@
         <entry key="*.ignore">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ignore-glob">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -420,6 +547,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.inc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
             </plugin>
           </value>
         </entry>
@@ -513,6 +648,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.jpmignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.jrxml">
           <value>
             <plugin>
@@ -573,6 +716,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.jshintignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -675,11 +826,51 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.module">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mtn-ignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nodemonignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.nomad">
           <value>
             <plugin>
               <option name="myPluginId" value="org.intellij.plugins.hcl" />
               <option name="myPluginName" value="HashiCorp Terraform / HCL language support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.npmignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nuxtignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -689,6 +880,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.p4ignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -746,6 +945,86 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.phar">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.phar.bz2">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.phar.gz">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.phar.tar.bz2">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.phar.tar.gz">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.phar.zip">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.php">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.php4">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.php5">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.phtml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.png">
           <value>
             <plugin>
@@ -788,6 +1067,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.prettierignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -944,12 +1231,36 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.stylelintignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.stylintignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.svg">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.swagger-codegen-ignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -967,6 +1278,14 @@
             <plugin>
               <option name="myPluginId" value="org.intellij.plugins.hcl" />
               <option name="myPluginName" value="HashiCorp Terraform / HCL language support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tfignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -1014,6 +1333,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tpl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ts">
           <value>
             <plugin>
@@ -1056,6 +1383,14 @@
               <option name="myPluginId" value="com.intellij.diagram" />
               <option name="myPluginName" value="UML" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.upignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
+              <option name="myPluginName" value=".ignore" />
             </plugin>
           </value>
         </entry>
@@ -1266,6 +1601,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*phar.tar">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.php" />
+              <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".babelrc">
           <value>
             <plugin>
@@ -1372,6 +1715,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".prettierrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".stylelintignore">
           <value>
             <plugin>
@@ -1453,6 +1805,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="composer.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="exclude">
           <value>
             <plugin>
@@ -1494,6 +1855,15 @@
             <plugin>
               <option name="myPluginId" value="Lombook Plugin" />
               <option name="myPluginName" value="Lombok" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="phpunit.xml.dist">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1570,6 +1940,11 @@
                       <FeaturePluginData displayName="Cloud Code: Cloud Run" pluginName="Cloud Code" pluginId="com.google.gct.core" />
                     </value>
                   </entry>
+                  <entry key="ComposerRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Composer Script" pluginName="PHP" pluginId="com.jetbrains.php" />
+                    </value>
+                  </entry>
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
@@ -1643,6 +2018,36 @@
                   <entry key="NodeunitConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" />
+                    </value>
+                  </entry>
+                  <entry key="PHPUnitRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="PHPUnit" pluginName="PHP" pluginId="com.jetbrains.php" />
+                    </value>
+                  </entry>
+                  <entry key="PhpBuiltInWebServerConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="PHP Built-in Web Server" pluginName="PHP" pluginId="com.jetbrains.php" />
+                    </value>
+                  </entry>
+                  <entry key="PhpHttpRequestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="PHP HTTP Request" pluginName="PHP" pluginId="com.jetbrains.php" />
+                    </value>
+                  </entry>
+                  <entry key="PhpLocalRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="PHP Script" pluginName="PHP" pluginId="com.jetbrains.php" />
+                    </value>
+                  </entry>
+                  <entry key="PhpRemoteDebugRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="PHP Remote Debug" pluginName="PHP" pluginId="com.jetbrains.php" />
+                    </value>
+                  </entry>
+                  <entry key="PhpWebAppRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="PHP Web Page" pluginName="PHP" pluginId="com.jetbrains.php" />
                     </value>
                   </entry>
                   <entry key="ReactNative">
