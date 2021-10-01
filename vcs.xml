@@ -52,7 +52,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="dev_bndigital" />
+          <option name="userName" value="akyluk-akt" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/bn-digital/breakpointer.git" />
@@ -96,6 +96,22 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/bn-digital/zuluforest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://andrii.kyluk:bndigital@akt.io/bitbucket.org/automatateam/ui-web-akt-io" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/automatateam/ui-web-akt-io" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://akyluk-akt@bitbucket.org/automatateam/ui-web-akt-io.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:automatateam/ui-web-akt-io" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
