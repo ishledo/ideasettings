@@ -13,6 +13,7 @@
       <mapping pattern="wp-deploy" type="PLAIN_TEXT" />
       <mapping pattern="scene_vacationRequest.js" type="PLAIN_TEXT" />
       <removed_mapping ext="env" approved="true" type="Env File" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
     </extensionMap>

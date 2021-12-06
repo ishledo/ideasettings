@@ -114,6 +114,10 @@
           <option name="url" value="git@bitbucket.org:automatateam/ui-web-akt-io" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bn-digital/bndigital.team.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/IdeaProjects" />
